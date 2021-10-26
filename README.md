@@ -1,5 +1,5 @@
 - 👋 Ola, eu sou @thalisreboucas
-Sou estudande de estatistica pela Universidade Federal do Ceará, atualmente adora apreder sobre análise de dados e machine learning.
+Sou estudande de Estatística/Ciência de Dados pela Universidade Federal do Ceará, atualmente adora apreder sobre análise de dados e machine learning.
 <!---
 thalisreboucas/thalisreboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,5 +21,6 @@ You can click the Preview link to take a look at your changes.
 ### About me:
 
 [<img align="left" width="22px" src="https://github.com/thalisreboucas/Portfolio/blob/main/static/images/favicon.png"/>](https://thalis.netlify.app/)
-[<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg"/>](https://www.linkedin.com/in/thalisreboucas/)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>](https://www.linkedin.com/in/thalisreboucas/)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"/>](https://www.instagram.com/thalisreboucas/)
+  [<img align="left" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138168.png?token=exp=1635271143~hmac=2fad5162042a45c4de2d9d5c99465dbe"/>](https://www.twitter.com/thalisreboucas/)
