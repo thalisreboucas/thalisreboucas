@@ -22,7 +22,7 @@ jobs:
           config_timezone: America/Fortaleza
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_ignored:  octonaut
+          plugin_achievements_ignored: octonaut
           plugin_achievements_limit: 7
           plugin_achievements_only: Developer
           plugin_achievements_secrets: yes
