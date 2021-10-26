@@ -1,4 +1,5 @@
 - 👋 Ola, eu sou @thalisreboucas
+- 
 ![Metrics](https://metrics.lecoq.io/thalisreboucas?template=classic&isocalendar=1&screenshot=1&achievements=1&gists=1&habits=1&introduction=1&activity=1&projects=1&isocalendar.duration=half-year&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=2&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=2&achievements.ignored=explor&achievements.only=automator&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Fthalis.netlify.app&screenshot.selector=body&screenshot.background=true&config.timezone=America%2FFortaleza)
 <div>
   <a href="https://github.com/thalisreboucas">
