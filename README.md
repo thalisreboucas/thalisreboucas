@@ -4,13 +4,13 @@ Sou estudande de Estatística/Ciência de Dados pela Universidade Federal do Cea
 thalisreboucas/thalisreboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Metrics](https://github.com/gadenbuie/gadenbuie/raw/main/github-metrics.svg)
 
 <div>
   <a href="https://github.com/thalisreboucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&layout=compact&langs_count=16&theme=dark"/>
 <div>
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Mau-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Mau-tidyverse" height="30" width="40" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
