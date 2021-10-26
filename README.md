@@ -1,7 +1,5 @@
 # Thalis Rebouças
 
-<img align="center" width="22px" src="https://avatars.githubusercontent.com/u/50429343?v=4"/>
-
 ### Saiba mais: 
 [<img align="left" width="22px" src="https://github.com/thalisreboucas/Portfolio/blob/main/static/images/logo_w.png"/>](https://thalis.netlify.app/)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>](https://www.linkedin.com/in/thalisreboucas/)
