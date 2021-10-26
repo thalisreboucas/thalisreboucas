@@ -1,10 +1,5 @@
 - 👋 Ola, eu sou @thalisreboucas
-Sou estudande de Estatística/Ciência de Dados pela Universidade Federal do Ceará, atualmente adora apreder sobre análise de dados e machine learning.
-<!---
-thalisreboucas/thalisreboucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+![Metrics](https://metrics.lecoq.io/thalisreboucas?template=classic&isocalendar=1&screenshot=1&achievements=1&gists=1&habits=1&introduction=1&activity=1&projects=1&isocalendar.duration=half-year&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=2&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=2&achievements.ignored=explor&achievements.only=automator&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Fthalis.netlify.app&screenshot.selector=body&screenshot.background=true&config.timezone=America%2FFortaleza)
 <div>
   <a href="https://github.com/thalisreboucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
