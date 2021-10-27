@@ -50,6 +50,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: .thalisreboucas.website
           plugin_stars: yes
           plugin_stars_limit: 4
