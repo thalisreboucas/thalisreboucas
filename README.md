@@ -8,6 +8,9 @@
   <img align="center" alt="Mau-tidyverse" height="40" width="50" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
   <img align="center" alt="Mau-Markdown" height="40" width="50" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg">
   <img align="center" alt="Mau-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mau-Reticulate" height="40" width="50" src="https://github.com/rstudio/reticulate/raw/master/images/reticulated_python.png">
+  <img align="center" alt="Mau-Tensorflow" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+  <img align="center" alt="Mau-Mindspore" height="40" width="50" src="https://e-file.huawei.com/-/media/hic/products/mindspore/mindspore-logo-v4.png">
 </div>
 
 
