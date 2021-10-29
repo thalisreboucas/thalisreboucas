@@ -34,7 +34,7 @@
 <h2> Contatos 😉 </h2>
 
 <a href="https://thalis.netlify.app/"  >
-    <img alt="Site" src="https://img.shields.io/badge/Thalis-212121.svg?&style=for-the-badge&logo=RetroArch&logoColor=white"/>
+    <img alt="Site" src="https://img.shields.io/badge/Meu_Site-212121.svg?&style=for-the-badge&logo=RetroArch&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/thalisreboucas/"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -48,5 +48,6 @@
 <a href="https://www.twitter.com/thalisreboucas/"  >
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+
 
 
