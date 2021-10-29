@@ -23,7 +23,11 @@
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img alt="GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="Tidyverse" src="https://img.shields.io/badge/tidyverse-2F2E8B?style=for-the-badge&logo=Fitbit&logoColor=white" />
- 
+<img alt=".HTML" src="https://img.shields.io/badge/.HTML-E02826?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt=".CSS" src="https://img.shields.io/badge/.CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Github Pages" src="https://img.shields.io/badge/GITHUB_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+  
 </p>
 
 
