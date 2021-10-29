@@ -48,6 +48,8 @@
 <a href="https://www.twitter.com/thalisreboucas/"  >
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-
+<a href="https://thalisreboucas.github.io/curriculo/"  >
+    <img alt="CV" src="https://img.shields.io/badge/Meu_CV-212121.svg?&style=for-the-badge&logo=fastify&logoColor=white"/>
+</a>
 
 
