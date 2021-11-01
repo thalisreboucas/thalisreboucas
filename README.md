@@ -27,6 +27,8 @@
 <img alt=".CSS" src="https://img.shields.io/badge/.CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Github Pages" src="https://img.shields.io/badge/GITHUB_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+<img alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white" />
+<img alt="LaTex" src="https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white" />
   
 </p>
 
