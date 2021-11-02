@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (eight  hour)
+  # Schedule updates (eight hour)
   schedule: [{cron: "0 */8 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
           user: thalisreboucas
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_timezone: America/Fortaleza
           config_twemoji: yes
           plugin_achievements: yes
@@ -31,7 +31,6 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -60,7 +59,5 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_forks: yes
           plugin_stars: yes
-          plugin_stars_limit: 5
-          repositories_forks: yes
+          plugin_stars_limit: 4
