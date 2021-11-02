@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+      # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (eight hour)
@@ -19,8 +19,9 @@ jobs:
           user: thalisreboucas
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_timezone: America/Fortaleza
+          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -33,6 +34,8 @@ jobs:
           plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_sections: repositories
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -46,7 +49,11 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: .user.website
           plugin_repositories: yes
