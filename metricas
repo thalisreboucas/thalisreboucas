@@ -19,7 +19,7 @@ jobs:
           user: thalisreboucas
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
+          config_display: large/columns
           config_timezone: America/Fortaleza
           config_twemoji: yes
           plugin_achievements: yes
