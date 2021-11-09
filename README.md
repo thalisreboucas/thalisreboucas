@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/im.gif" alt="Image" height="90%" width="90%" />
 </p>
 
