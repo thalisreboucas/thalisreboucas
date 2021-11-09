@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/im.gif" alt="Image" height="400" width="225" />
+  <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/im.gif" alt="Image" height=".40" width=".40" />
 </p>
 
 
