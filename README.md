@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/im.gif" alt="Image" height="90%" width="90%" />
-</p>
-
-
 <p align="left">
   <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/github-metrics.svg" />
 </p>
