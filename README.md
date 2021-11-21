@@ -39,22 +39,22 @@
 <h2> Contatos 😉 </h2>
 
 <a href="https://thalis.netlify.app/"  >
-    <img alt="Site" width="26px" src="https://img.shields.io/badge/Meu_Site-212121.svg?&style=for-the-badge&logo=RetroArch&logoColor=white"/>
+    <img alt="Site" width="32px" src="https://cdn-icons-png.flaticon.com/512/6116/6116437.png"/>
 </a>
 <a href="https://www.linkedin.com/in/thalisreboucas/"  >
-    <img alt="LinkedIn" width="26px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
 </a>
 <a href="mailto:thalisreboucasdeoliveira@gmail.com"  >
-    <img alt="Gmail" width="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/95/95627.png" />
 </a>
 <a href="https://www.instagram.com/thalisreboucas/"  >
-    <img alt="Instagram" width="26px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
 </a>
 <a href="https://www.twitter.com/thalisreboucas/"  >
-    <img alt="Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" />
+    <img alt="Twitter" width="32px" src="https://cdn-icons-png.flaticon.com/512/49/49351.png" />
 </a>
 <a href="https://thalisreboucas.github.io/curriculo/"  >
-    <img alt="CV" width="26px" src="https://img.shields.io/badge/Meu_CV-212121.svg?&style=for-the-badge&logo=fastify&logoColor=white"/>
+    <img alt="CV" width="32px" src="https://cdn-icons-png.flaticon.com/512/2427/2427488.png"/>
 </a>
 
 
