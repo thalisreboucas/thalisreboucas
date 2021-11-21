@@ -34,26 +34,27 @@
   
 </p>
 
+---
 
 <h2> Contatos 😉 </h2>
 
 <a href="https://thalis.netlify.app/"  >
-    <img alt="Site" src="https://img.shields.io/badge/Meu_Site-212121.svg?&style=for-the-badge&logo=RetroArch&logoColor=white"/>
+    <img alt="Site" width="26px" src="https://img.shields.io/badge/Meu_Site-212121.svg?&style=for-the-badge&logo=RetroArch&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/thalisreboucas/"  >
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" width="26px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:thalisreboucasdeoliveira@gmail.com"  >
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" width="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/thalisreboucas/"  >
-    <img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" width="26px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.twitter.com/thalisreboucas/"  >
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img alt="Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" />
 </a>
 <a href="https://thalisreboucas.github.io/curriculo/"  >
-    <img alt="CV" src="https://img.shields.io/badge/Meu_CV-212121.svg?&style=for-the-badge&logo=fastify&logoColor=white"/>
+    <img alt="CV" width="26px" src="https://img.shields.io/badge/Meu_CV-212121.svg?&style=for-the-badge&logo=fastify&logoColor=white"/>
 </a>
 
 
