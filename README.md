@@ -3,6 +3,8 @@
   <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/github-metrics.svg" />
 </p>
 
+---
+
 # Ferramentas que eu uso 😜
 
 <p align="center">
