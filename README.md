@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/thalisreboucas/thalisreboucas/blob/main/github-metrics.svg" />
 </p>
 
@@ -39,7 +39,7 @@
 ---
 
 <h2> Contatos 😉 </h2>
-
+<center> 
 <a href="https://thalis.netlify.app/"  >
     <img alt="Site" width="32px" src="https://cdn-icons-png.flaticon.com/512/6116/6116437.png"/>
 </a>
@@ -59,4 +59,4 @@
     <img alt="CV" width="32px" src="https://cdn-icons-png.flaticon.com/512/2427/2427488.png"/>
 </a>
 
-
+  </center>
