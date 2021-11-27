@@ -39,24 +39,24 @@
 ---
 
 <h2> Contatos 😉 </h2>
-<center> 
+
 <a href="https://thalis.netlify.app/"  >
-    <img alt="Site" width="32px" src="https://cdn-icons-png.flaticon.com/512/6116/6116437.png"/>
+    <img alt="Site" align="center" width="32px" src="https://cdn-icons-png.flaticon.com/512/6116/6116437.png"/>
 </a>
 <a href="https://www.linkedin.com/in/thalisreboucas/"  >
-    <img alt="LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
+    <img alt="LinkedIn" align="center" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
 </a>
 <a href="mailto:thalisreboucasdeoliveira@gmail.com"  >
-    <img alt="Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/95/95627.png" />
+    <img alt="Gmail" align="center" width="32px" src="https://cdn-icons-png.flaticon.com/512/95/95627.png" />
 </a>
 <a href="https://www.instagram.com/thalisreboucas/"  >
-    <img alt="Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
+    <img alt="Instagram" align="center" width="32px" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" />
 </a>
 <a href="https://www.twitter.com/thalisreboucas/"  >
-    <img alt="Twitter" width="32px" src="https://cdn-icons-png.flaticon.com/512/49/49351.png" />
+    <img alt="Twitter" align="center" width="32px" src="https://cdn-icons-png.flaticon.com/512/49/49351.png" />
 </a>
 <a href="https://thalisreboucas.github.io/curriculo/"  >
-    <img alt="CV" width="32px" src="https://cdn-icons-png.flaticon.com/512/2427/2427488.png"/>
+    <img alt="CV" align="center" width="32px" src="https://cdn-icons-png.flaticon.com/512/2427/2427488.png"/>
 </a>
 
   </center>
