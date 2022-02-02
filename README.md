@@ -21,7 +21,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a>https://github-readme-stats.vercel.app/api/top-langs/?username=thalisrebocuas&layout=compact&theme=dark&hide_border=true </a>
+  <a> <img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&layout=compact&theme=dark&hide_border=true" width="350"> </a>
 </p>
 
 
