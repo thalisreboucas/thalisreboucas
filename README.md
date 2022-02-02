@@ -16,6 +16,10 @@
   <a href="https://instagram.com/thalisreboucas">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/thalisreboucas">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" />        
+  </a>
+
   
 </p>
 
