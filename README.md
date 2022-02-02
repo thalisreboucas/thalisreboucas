@@ -49,11 +49,11 @@
 📍 **Gauss jr** - Fortaleza/CE, Brasil
 
 - 👨‍💻 **Diretor de Projetos**\
-📆 2021 - jan/2022\
+📆 2020 - jun/2021\
 📍 **Gauss jr** - Fortaleza/CE, Brasil
   
 - 👨‍💻 **Assesor de Projetos**\
-📆 2021 - jan/2022\
+📆 2019 - jun/2020\
 📍 **Gauss jr** - Fortaleza/CE, Brasil
   
 ## Skills
