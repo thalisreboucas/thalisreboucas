@@ -19,17 +19,17 @@
   <a href="https://twitter.com/thalisreboucas">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />        
   </a>
-
+  <a href="https://thalis.netlify.app">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />        
+  </a>
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&theme=dark" > </a>
-</p>
 
- 
- 
+  <a href="#"><img align='center' src = "https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#" ><img align='center' scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&theme=dark" > </a>
+
+  
 <details>
   <summary>📃 Resumo</summary>
 
