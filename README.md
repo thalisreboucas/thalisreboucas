@@ -37,8 +37,6 @@
 
 ## Experiência
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
 - 👨‍💻 **Estagiario**\
 📆 2021 - moment\
 📍 **Liber Consultoria** - São Paulo/SP, Brazil
