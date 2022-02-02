@@ -25,10 +25,12 @@
 
 <p align='center'>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&langs_count=8" width="350"> </a>
+  
+ 
 </p>
 
-
+ <a href="#"><img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&langs_count=8" width="350"> </a>
+ 
 <details>
   <summary>📃 Resumo</summary>
 
