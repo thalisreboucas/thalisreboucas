@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />        
   </a>
    <a href="https://thalis.netlify.app">
-    <img src="https://img.shields.io/badge/-Site-323232?style=for-the-badge&labelColor=1ca0f1&logo=Unity&logoColor=white" />        
+    <img src="https://img.shields.io/badge/-Site-323232?style=for-the-badge&labelColor=323232&logo=Unity&logoColor=white" />        
   </a>
   
 </p>
