@@ -32,7 +32,7 @@
 
 ## Educação
 
-- 📖 ** Estatística **\
+- 📖 **Estatística**\
 📆 2019 - 2023\
 📍 **Universidade Federal do Ceará** - Fortaleza, Brasil
 
@@ -59,6 +59,7 @@
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/R-4479A1?logo=rstudio&logoColor=white" /> 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 
