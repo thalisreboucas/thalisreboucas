@@ -43,8 +43,8 @@
 ## Experiência
 
 - 👨‍💻 **Estagiario**\
-📆 2021 - moment\
-📍 **Liber Consultoria** - São Paulo/SP, Brazil
+📆 2022 - moment\
+📍 **Liber Consultoria** - Fortaleza/CE, Brasil
   
 
 - 👨‍💻 **Presidente**\
