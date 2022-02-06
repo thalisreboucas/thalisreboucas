@@ -43,7 +43,7 @@
 ## Experiência
 
 - 👨‍💻 **Estagiario**\
-📆 2022 - moment\
+📆 2022 - Atualmente\
 📍 **Liber Consultoria** - Fortaleza/CE, Brasil
   
 
