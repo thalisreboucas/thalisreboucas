@@ -24,7 +24,7 @@
 </p>
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=323232&color=ff7f00&line=000000&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=ff7f00&color=ff7f00&line=232323&point=ffffff&area=true&hide_border=true"/>
 <br>
 
 <p align='center'>
