@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=KodaKDominus&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br>
 
 <p align='center'>
@@ -32,6 +32,7 @@
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&theme=dark" height = "180"></a>
 </p>
   
+<p align='center'>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=thalisreboucas&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
