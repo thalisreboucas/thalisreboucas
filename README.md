@@ -24,7 +24,7 @@
 </p>
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=181818&color=ff7f00&line=ff7f00&point=ff7f00&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=151515&color=ff7f00&line=ff7f00&point=ff7f00&area=true&hide_border=true"/>
 <br>
 
 <p align='center'>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app?username=thalisreboucas&column=7&theme=dark&hide_border=true&include_all_commits=true&line_height=27"/>
+    <img src="https://github-profile-trophy.vercel.app?username=thalisreboucas&column=7&theme=alduin&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
   
   
