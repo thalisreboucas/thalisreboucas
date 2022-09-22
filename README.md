@@ -3,12 +3,8 @@
 </h1>
 
 <p align='center'>
-  Sou Ciêntista e analista de dados.
+  Sou Ciêntista dados e engenheiro de Machine Learning.
 </p>
-
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-<br>
 
 <p align='center'>
   
@@ -26,6 +22,10 @@
   </a>
   
 </p>
+
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br>
 
 <p align='center'>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width = "350" height = "180"></a>
