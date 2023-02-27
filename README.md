@@ -23,9 +23,6 @@
   
 </p>
 
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=thalisreboucas&bg_color=151515&color=ff7f00&line=ff7f00&point=ff7f00&area=true&hide_border=true"/>
-<br>
 
 <p align='center'>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width = "350" height = "180"></a>
@@ -54,7 +51,7 @@
 
 ## Experiência
 
-- 👨‍💻 **Estagiario**\
+- 👨‍💻 **Trainee**\
 📆 2022 - Atualmente\
 📍 **Liber Consultoria** - Fortaleza/CE, Brasil
   
