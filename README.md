@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Sou Ciêntista dados e engenheiro de Machine Learning.
+  Sou Ciêntista dados e fullstack.
 </p>
 
 <p align='center'>
