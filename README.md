@@ -51,8 +51,12 @@
 
 ## Experiência
 
+- 👨‍💻 **Assistende de Dados III**\
+📆 2023 - Atualmente\
+📍 **PWR Gestão** - Fortaleza/CE, Brasil
+
 - 👨‍💻 **Trainee**\
-📆 2022 - Atualmente\
+📆 2022 - set/2023\
 📍 **Liber Consultoria** - Fortaleza/CE, Brasil
   
 
