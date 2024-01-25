@@ -6,22 +6,7 @@
   Sou Ciêntista dados e fullstack.
 </p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/thalisreboucas/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/thalisreboucas">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/thalisreboucas">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />        
-  </a>
-   <a href="https://thalisreboucas.com.br">
-    <img src="https://img.shields.io/badge/-Site-323232?style=for-the-badge&labelColor=323232&logo=Unity&logoColor=white" />        
-  </a>
-  
-</p>
+![](https://komarev.com/ghpvc/?username=thalisreboucas&label=PROFILE+VIEWS)
 
 
 <p align='center'>
