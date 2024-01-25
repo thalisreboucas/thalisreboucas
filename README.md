@@ -6,9 +6,6 @@
   Sou Ciêntista dados e fullstack.
 </p>
 
-![](https://komarev.com/ghpvc/?username=thalisreboucas&label=PROFILE+VIEWS)
-
-
 <p align='center'>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api?username=thalisreboucas&show_icons=true&count_private=true&theme=dark" width = "350" height = "180"></a>
   <a href="#"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thalisreboucas&theme=dark" height = "180"></a>
@@ -69,13 +66,10 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-
-
-
   
-
-
-
-
 </details>
+
+![](https://komarev.com/ghpvc/?username=thalisreboucas&label=PROFILE+VIEWS)
+
+
+
